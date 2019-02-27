@@ -65,6 +65,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Test tests::shuffled_deck_has_same_number_of_cards'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'Test tests::shuffled_deck_has_same_number_of_cards'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Test'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
