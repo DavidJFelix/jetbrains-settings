@@ -113,6 +113,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Run arrteempea'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Run arrteempea'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Terminal">
         <Item>
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
