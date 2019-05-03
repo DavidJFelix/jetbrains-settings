@@ -81,6 +81,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'check'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'check'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run">
         <Item>
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
